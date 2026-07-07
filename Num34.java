@@ -11,6 +11,7 @@ public class Code {
         }
         if(n==1){
             System.out.println("true");
-        }
+        }else{
+            System.out.println("false");
     }
 }
